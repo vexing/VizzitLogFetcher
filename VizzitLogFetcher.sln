@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VizzitLogFetcher", "VizzitLogFetcher\VizzitLogFetcher.csproj", "{A33515F8-33BF-4A00-88CB-2DE19B585F82}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogHandler", "LogHandler\LogHandler.csproj", "{163BC9A9-ED34-47EF-BA42-F4DC1F61DAEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A33515F8-33BF-4A00-88CB-2DE19B585F82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A33515F8-33BF-4A00-88CB-2DE19B585F82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A33515F8-33BF-4A00-88CB-2DE19B585F82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A33515F8-33BF-4A00-88CB-2DE19B585F82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{163BC9A9-ED34-47EF-BA42-F4DC1F61DAEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{163BC9A9-ED34-47EF-BA42-F4DC1F61DAEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{163BC9A9-ED34-47EF-BA42-F4DC1F61DAEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{163BC9A9-ED34-47EF-BA42-F4DC1F61DAEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
